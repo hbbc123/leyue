@@ -6,7 +6,7 @@
 
 1.拉取小程序项目文件  在微信开发者中导入
 
-2.下载leyue_node 项目包  按要求使用
+2.下载leyue_node 项目包  按要求使用 https://github.com/hbbc123/leyue_nodejs
 
 3.修改app.son中
 
